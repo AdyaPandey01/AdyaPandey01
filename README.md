@@ -4,7 +4,7 @@
 
 - 👨‍🎓 At the moment, I am the GDSC Lead at ABESIT.
 - 🔭 I’m currently learning Natural Language Processing
-- 🌱 I’m currently pursuing bachelors of Technology in Computer Science and Engineering
+- 🌱 I’m currently pursuing Bachelors of Technology in Computer Science and Engineering
 - 👯 I’m looking to collaborate on ML & Python projects
 - 💬 Ask me about Machine Learning & Data Science related Stuff
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/adya-pandey-593393170/) 
